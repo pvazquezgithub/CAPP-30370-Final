@@ -54,7 +54,7 @@ $(window).resize(function(e) {
 console.log( 'Width:' + $(window).width());
   console.log( 'Height:' + $(window).height());
 
-$(header).on('click', function() {
+$('.header').on('click', function() {
   console.log('Text:' + $(this).text());
   console.log('Color:' + $(this).css('color')); 
   console.log('Font-Size:' + $(this).css('font-size'));

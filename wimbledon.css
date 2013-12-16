@@ -55,10 +55,7 @@ main{max-width:100%;}
 }
   @media only screen and (min-width:1000px){
  
-  .content{
-    width: 100%;
-    overflow:hidden;
-  }
+  
   
   .links {float:left; width:20%;overflow:hidden;}
   main{width:80%;

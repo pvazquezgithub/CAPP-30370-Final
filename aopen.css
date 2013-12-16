@@ -1,17 +1,3 @@
-
-header{text-align:center;max-width:100%}
-
-.links{max-width:100%}
-nav{text-align:center;}
-
-img{
-   
-  height:auto;
-  width:auto;
-  max-width:50%;
-  padding: 0 25% 0 25%;
- }
- 
 #home{
   transition:all 1s ease;
 }
@@ -74,3 +60,6 @@ main{max-width:100%;}
   footer{width:100%;
     overflow:hidden;
   }
+
+
+
